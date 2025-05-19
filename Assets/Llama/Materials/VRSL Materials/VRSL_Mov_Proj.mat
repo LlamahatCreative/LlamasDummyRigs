@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Server Room-VRSL-StandardMover-ProjectionMat-HQ-Horizontal
+  m_Name: VRSL_Mov_Proj
   m_Shader: {fileID: 4800000, guid: e923d97391d92af458ef6f59e8f0963b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
