@@ -256,7 +256,7 @@ MonoBehaviour:
   maxConeLength: 1
   maxMinPan: 180
   maxMinTilt: -180
-  fixtureDefintion: 11
+  fixtureDefintion: 6
   foldout: 0
 --- !u!114 &3752718154785867342
 MonoBehaviour:

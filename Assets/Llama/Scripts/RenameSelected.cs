@@ -11,6 +11,7 @@ public class RenameSelected : EditorWindow
     private string _gameObjectPrefix;
     private int _startIndex;
     private SerializedObject _serializedObject;
+    private Vector2 _scrollPosition; // Add this line
  
     [MenuItem("GameObject/Rename Selected")]
     public static void ShowWindow()
@@ -28,24 +29,27 @@ public class RenameSelected : EditorWindow
  
     private void OnGUI()
     {
+        _scrollPosition = EditorGUILayout.BeginScrollView(_scrollPosition); // Begin scroll view
+
         _gameObjectPrefix = EditorGUILayout.TextField("Selected Prefix", _gameObjectPrefix);
         _startIndex = EditorGUILayout.IntField("Start Index", _startIndex);
         
         _serializedObject.Update();
- 
+
         SerializedProperty serializedProperty = _serializedObject.FindProperty("objects");
- 
+
         EditorGUILayout.PropertyField(serializedProperty, true);
- 
+
         if (GUILayout.Button("Rename Objects"))
         {
-            
             for (int objectI = 0, i = _startIndex; objectI < serializedProperty.arraySize; objectI++)
             {
                 serializedProperty.GetArrayElementAtIndex(objectI).objectReferenceValue.name = $"{_gameObjectPrefix}{i++}";
             }
         }
-        
+
         _serializedObject.ApplyModifiedProperties();
+
+        EditorGUILayout.EndScrollView(); // End scroll view
     }
 }
