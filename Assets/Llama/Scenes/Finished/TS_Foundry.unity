@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.019439677, g: 0.019439677, b: 0.019439677, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -306,6 +306,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -393,11 +398,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3104
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -689,6 +689,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -776,11 +781,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3108
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -982,6 +982,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1069,11 +1074,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3119
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7261,6 +7261,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7348,11 +7353,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3116
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7372,6 +7372,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7459,11 +7464,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3121
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9120,6 +9120,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9207,11 +9212,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3107
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9231,6 +9231,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9318,11 +9323,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3117
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14607,6 +14607,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14694,11 +14699,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3110
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14990,6 +14990,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15077,11 +15082,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3111
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16445,6 +16445,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16532,11 +16537,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3124
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17071,6 +17071,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17158,11 +17163,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3113
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17331,6 +17331,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17418,11 +17423,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3102
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17442,6 +17442,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17529,11 +17534,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3101
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23611,6 +23611,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23698,11 +23703,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3114
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -46776,6 +46776,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -46863,11 +46868,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3115
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47363,6 +47363,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -47450,11 +47455,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3105
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54434,6 +54434,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -54521,11 +54526,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3109
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54840,6 +54840,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -54927,11 +54932,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3112
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60710,6 +60710,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -60797,11 +60802,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3103
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60910,7 +60910,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f3715f7750bd6e14abb24c475926b2a9, type: 2}
+  - {fileID: 2100000, guid: 8a2a14c12a7edc24e85a527eac5a6529, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -61978,6 +61978,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -62065,11 +62070,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3120
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62089,6 +62089,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -62176,11 +62181,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3122
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73392,6 +73392,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -73479,11 +73484,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3118
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -73824,6 +73824,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -73911,11 +73916,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3106
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -74993,6 +74993,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -75080,11 +75085,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_3123
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: f4edced335dfaef458097666649fbf9d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

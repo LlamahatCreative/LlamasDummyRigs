@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.019439677, g: 0.019439677, b: 0.019439677, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -415,6 +415,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -502,11 +507,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2104
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -532,6 +532,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -619,11 +624,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2101
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -846,6 +846,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -933,11 +938,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2105
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1012,6 +1012,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1099,11 +1104,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2103
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1453,6 +1453,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1540,11 +1545,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2102
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1564,6 +1564,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1651,11 +1656,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2108
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3288,6 +3288,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3375,11 +3380,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2107
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5475,7 +5475,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f3715f7750bd6e14abb24c475926b2a9, type: 2}
+  - {fileID: 2100000, guid: 8a2a14c12a7edc24e85a527eac5a6529, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6282,6 +6282,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 317857423}
     m_Modifications:
+    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     - target: {fileID: 3462816710850178532, guid: b68908464bbf0814eb49556e54c80076,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6369,11 +6374,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VRSL_Blinder_6x4_2106
       objectReference: {fileID: 0}
-    - target: {fileID: 4405476543568550281, guid: 46d1954298362974887b80dc3d70ee5f,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fda60afc5689b2943800397f0ec3519f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
